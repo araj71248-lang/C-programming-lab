@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    printf("Name: Aditya Raj\n");
+    printf("Roll.No:MEBM25004\n");
+    printf("Department : mechnaical engineering \n");
+    printf("University : Tezpur University\n");
+    return 0;
+}
